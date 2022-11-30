@@ -19,7 +19,7 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Get Started",
+    "name": "Get Started!",
     "url": "https://cloud.mindsdb.com"
   },
   "anchors": [
@@ -42,7 +42,7 @@
         "what-is-mindsdb",
         {
           "group": "Deployment",
-          "pages": [  
+          "pages": [
             {
               "group": "Self-Hosted",
               "pages": [
@@ -119,9 +119,7 @@
         },
         {
           "group": "REST API",
-          "pages": [
-            "rest/sql"
-          ]
+          "pages": ["rest/sql"]
         },
         {
           "group": "Mongo API",

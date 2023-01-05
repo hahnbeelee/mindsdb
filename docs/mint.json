@@ -14,7 +14,7 @@
   },
   "topbarLinks": [
     {
-      "name": "Login!",
+      "name": "Login",
       "url": "https://cloud.mindsdb.com/login"
     }
   ],
